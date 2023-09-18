@@ -1,4 +1,4 @@
-Parsing `2000-01-01T00:00:00.000Z` into UNIX timestamp. Reverse conversion included (courtesy of [nektro/zig-time](https://github.com/nektro/zig-time/)).
+Parsing `2000-01-01T00:00:00.000Z` into UNIX timestamp. Reverse conversion included (courtesy of [nektro/zig-time](https://github.com/nektro/zig-time/)). It can be ser/deserialized by `std.json` (see last tests in `Timestamp.zig`).
 
 ## License
 
